@@ -1,13 +1,5 @@
-т<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-
-
-
-
-
-
-
     <string name="btn_check_updating">Перевірити оновлень</string>
     <string name="btn_shared">Поділитися</string>
     <string name="btn_may_download">Завантажити</string>
